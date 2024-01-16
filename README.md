@@ -21,3 +21,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsharma495&show_icons=true&locale=en&layout=compact" alt="ankitsharma495" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsharma495&" alt="ankitsharma495" /></p>
+[![An image of @ankitsharma495's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitsharma495)](https://holopin.io/@ankitsharma495)
+
