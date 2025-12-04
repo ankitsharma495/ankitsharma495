@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full Stack Developer from India</h3>
 <img align = "right" width = "400" alt = "coding" src = "https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-
-- 🌱 I’m currently learning **MERN Stack**
-- ⚡ Fun fact **The Semicolon : hide and seek champion since 1957**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
